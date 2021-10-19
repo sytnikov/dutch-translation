@@ -125,32 +125,31 @@ en:
         form:
           placeholder: example.uwdomein.nl
           submit: Aangepast domein opslaan
-          subtext: 'Please enter your custom (sub)domain without http:// or https://. Your domain will automatically be secured by SSL. It may take up to 24 hours for the DNS changes to be reflected.'
-        subtitle: Set a custom domain for your academy
-        text_html: "Your academy will be available on %{url} and the <span class='font-weight-bold'>custom
-          domain</span> you choose here:"
-        title: Custom Domain
-        learn_more_html: <a href='https://academy.marbleteams.com/mypaths/102/items/199/advanced'>Learn more how to enable a custom domain</a>
+          subtext: 'Voer aub. uw (sub)domein in zonder http:// or https://. Uw domein zal automatisch worden voorzien van SSL. Het kan tot 24 uur duren voordat de DNS-wijzigingen zijn doorgevoerd.'
+        subtitle: Stel een eigen domein in voor je academie
+        text_html: "Je academie zal beschikbaar zijn op %{url} en op <span class='font-weight-bold'> eigen domein</span> U kiest hier:"
+        title: Eigen domein
+        learn_more_html: <a href='https://academy.marbleteams.com/mypaths/102/items/199/advanced'>Meer informatie over het inschakelen van een eigen domein</a>
       language:
-        submit: Save language
-        label: Language
-        subtitle: Change the language for the entire academy.
+        submit: Bewaar taal
+        label: Taal
+        subtitle: Verander de taal voor de hele academie.
       access_policy:
-        action: Change access
+        action: Toegang wijzigen
         modal:
           form:
             open:
               label1: Open
-              label2: Anyone with the link can register to the academy.
+              label2: Iedereen met de link kan zich inschrijven bij de academie.
             private:
-              label1: Private
-              label2: Only people invited to the academy have access to it.
+              label1: Besloten / prive
+              label2: Alleen mensen die zijn uitgenodigd voor de academie hebben er toegang toe.
             public:
-              label1: Public
-              label2: Anyone with the link can view this academy and its lessons.
-          title: Change access policy
-        subtitle: Change access policy
-        text: You can change the <strong>access policy</strong> for this academy, which is currently <strong>%{value}</strong>.
+              label1: Publiek
+              label2: Iedereen met de link kan deze academie en de lessen bekijken.
+          title: Toegangsbeleid wijzigen
+        subtitle: Toegangsbeleid wijzigen
+        text: U kunt het <strong>toegangsbeleid</strong> voor deze academie, deze is momenteel<strong>%{value}</strong>.
         title: Danger Zone
         notification:
           open: open
