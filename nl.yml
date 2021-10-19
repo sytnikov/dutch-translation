@@ -150,65 +150,64 @@ en:
           title: Toegangsbeleid wijzigen
         subtitle: Toegangsbeleid wijzigen
         text: U kunt het <strong>toegangsbeleid</strong> voor deze academie, deze is momenteel<strong>%{value}</strong>.
-        title: Danger Zone
+        title: Pas op
         notification:
           open: open
-          private: private
-          public: public
-          subtitle: Get notifications in Slack
-          text: When a course is published or an lesson added, MarbleBot will notify
-            you via Slack.
-          title: Notifications
+          private: besloten
+          public: publiek
+          subtitle: Ontvang meldingen in Slack
+          text: Wanneer een cursus wordt gepubliceerd of een les wordt toegevoegd, zal MarbleBot u hiervan op de hoogte stellen via Slack.
+          title: Notificaties
       settings_navigation:
-        brand: "Brand"
-        domain: "Domain"
-        language: "Language"
-        access_policy: "Access Policy"
+        brand: "Merk"
+        domain: "Domein"
+        language: "Taal"
+        access_policy: "Toegangsbeleid"
     themes:
-      background_image: Background image
-      bg_instructions: 'Max size: 3000 x 1000 px'
-      brand_instructions: 'Max size: 500 x 175 px'
-      brand_logo: Brand logo
-      button_color: Buttons color
-      button_text_color: Buttons text color
-      colors: Colors
-      colors_subtitle: Please, choose the main colors of your academy.
-      course_background: Course background
-      course_background_image: Course background image
-      course_body_text_color: Course body text color
-      course_design: Course design
-      course_design_subtitle: Course design subtitle
-      delete_image: Delete image
-      go_to: Go to theme settings
-      images: Images
-      images_subtitle: Customize the images shown in your academy.
-      name: Theme name
-      navbar_color: Main navigation bar color
-      navbar_text_color: Main navigation bar text color
-      save: Save new theme
-      title: Theme settings
-      title_color: Title color on homepage
+      background_image: Achtergrond afbeelding
+      bg_instructions: 'Max formaat: 3000 x 1000 px'
+      brand_instructions: 'Max formaat: 500 x 175 px'
+      brand_logo: Merk logo
+      button_color: Knopkleuren
+      button_text_color: Tekskleur knoppen
+      colors: Kleuren
+      colors_subtitle: Kies de hoofdkleuren van je academie.
+      course_background: Cursus achtergrond
+      course_background_image: Achtergrondafbeelding cursus
+      course_body_text_color: Kleur hoofdtekst cursus
+      course_design: Cursus ontwerp
+      course_design_subtitle: Ondertitel cursusontwerp
+      delete_image: Verwijder afbeelding
+      go_to: Ga naar de thema instellingen
+      images: Afbeeldingen
+      images_subtitle: Pas de afbeeldingen aan die in je academie worden getoond.
+      name: Thema naam
+      navbar_color: Kleur hoofdnavigatiebalk
+      navbar_text_color: Tekstkleur hoofdnavigatiebalk
+      save: Bewaar nieuw thema
+      title: Thema instellingen
+      title_color: Titelkleur op homepage
   errors:
     messages:
       not_saved:
-        one: '1 error prohibited this %{resource} from being saved:'
-        other: "%{count} errors prohibited this %{resource} from being saved:"
+        one: '1 fout voorkomt dat %{resource} wordt opgeslagen:'
+        other: "%{count} fouten voorkomen dat  %{resource} wordt opgeslagen:"
   items:
-    update: Update Lesson
-    edit: Edit Lesson
-    delete: Delete Lesson
-    add: Add Lesson
-    create: Create Lesson
-    save: Save Lesson
-    add_question: Add Question
-    choose_file: Choose a file
+    update: Les updaten
+    edit: Les bewerken
+    delete: Les verwijderen
+    add: Les toevoegen
+    create: Les aanmaken
+    save: Les bewaren
+    add_question: Vraag toevoegen
+    choose_file: Kies een bestand
     item_code: Code
     file_size: "(max. 10MB)"
-    enter_tag: Enter a Tag
-    uploaded: Currently Uploaded
-    nolink_text: Don't have a link? Upload a file
+    enter_tag: Voeg een tag in
+    uploaded: Momenteel geüpload
+    nolink_text: Heb je geen link? Een bestand uploaden
     edit_path_item_advanced:
-      choose_lesson: Choose a lesson type
+      choose_lesson: Kies een lestype
       website_description: A card for any link
       video_description: Immersive video integration
       pdf_description: Upload or link to a file
