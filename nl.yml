@@ -3,128 +3,128 @@ en:
   admin:
     welcome:
       index:
-        total_views: Total Views
-        lesson_title: Lesson title
+        total_views: totaal aantal weergaven
+        lesson_title: Titel van de les
     paths:
       certificates_tab:
-        completed: Completed Lessons
-        status: Certificates Status
-        issued: Issued
-        pending: Pending
-        automatic: Automatically
-        canceled: Canceled
-        pdf: View as PDF
-        cancel: Cancel
-        issue: Issue
-        no_certificate: There is no certificate template created yet.
-        create_template: Create a template
+        completed: Voltooide lessen
+        status: Status van de certificaten
+        issued: Uitgegeven
+        pending: In afwachting
+        automatic: Automatisch
+        canceled: Geannuleerd
+        pdf: Bekijk als PDF
+        cancel: Annuleer
+        issue: Probleem
+        no_certificate: Er is nog geen certificaatsjabloon gemaakt.
+        create_template: Maak een sjabloon
       users_tab:
-        completed: Completed Lessons
+        completed: Afgeronde lessen
         details: Details
     users:
       index:
-        banner_button: Change access policy
-        banner_title: Want to allow users to sign up by themselves?
+        banner_button: Toegangsbeleid wijzigen
+        banner_title: Wilt u gebruikers toestaan om zich zelf aan te melden?
         invite:
-          button: Invite User
-          email: Email address
-          name: Name
-          title: Invite new users
+          button: Gbruiker uitnodigen
+          email: Email adres
+          name: Naam
+          title: Nodig nieuwe gebruikers uit
         sharelink:
-          button: Copy
-          title: Or share this link
+          button: Kopieer
+          title: Of deel deze link
     items:
-      completed: Completed
+      completed: Afgerond
     groups:
       index:
-        members: Members
-        member: Member
-        new: New group
-        edit: Edit group
-        modal_form_name: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
-        modal_title: Create a new group
+        members: Leden
+        member: Lid
+        new: Nieuwe groep
+        edit: Bewerk groep
+        modal_form_name: Naam
+        modal_form_users_label: Gebruikers toevoegen
+        modal_form_users_placeholder: Selecteer gebruikers
+        modal_title: Maak een nieuwe groep aan
       show:
         action:
-          remove: Remove from group
-        col_name: Name
-        modal_form_name_placeholder: Name
-        modal_form_users_label: Add users
-        modal_form_users_placeholder: Select users
-        modal_title: Update group
+          remove: Verwijder uit de groep
+        col_name: Naam
+        modal_form_name_placeholder: Naam
+        modal_form_users_label: Gebruikers toevoegen
+        modal_form_users_placeholder: Gebruikers selecteren
+        modal_title: Groep bijwerken
     certificate_templates:
       index:
-        issue_config: Issue Configuration
-        issued: Issued
-        manual: Manual
-        automatic: Automatic
-        template: Template
-        not_created: Not created yet
-        edit: Edit template
-        create: Create template
+        issue_config: Configuratie probleem
+        issued: Uitgegeven
+        manual: Handmatig
+        automatic: Automatisch
+        template: Sjabloon
+        not_created: Nog niet aangemaakt
+        edit: Sjabloon bewerken
+        create: Sjabloon aanmaken
     layouts:
       application:
-        workspace: Back to Academy
+        workspace: Terug naar de Academie
     questions:
       show:
         col:
-          attempts: Attempts
+          attempts: Pogingen
           correct: Correct
-          name: Name
-        completed: Completed
-        title: Title
+          name: Naam
+        completed: Afegrond
+        title: Titel
     plans:
       index:
-        manage: Manage your Plan
-        lifetime: Lifetime access to
-        includes: Plan includes
-        current: Current Plan
-        unlimited: Unlimited
-        unlimited_learners: Unlimited learners
-        unlimited_creators: Unlimited creators
-        unlimited_drafts: Unlimited draft courses
-        analytics: Advanced analytics
-        features: View all features
+        manage: Uw plan beheren
+        lifetime: Levenslange toegang tot
+        includes: Het plan bevat
+        current: Huidig plan
+        unlimited: Onbeperkt
+        unlimited_learners: Onbeperkt aantal studenten
+        unlimited_creators: Onbeperkt aantal makers
+        unlimited_drafts: Onbeperkt aantal conceptcursussen
+        analytics: Geavanceerde analyses
+        features: Bekijk alle functies
         upgrade: Upgrade plan
-        quote: Get a quote
-        features_included: Features included in all plans
-        alert_premium: Your plan provides two academies. If you want to create a second one, please get in touch with us through <a href="mailto:support@marbleteams.com">support@marbleteams.com</a>.
-        topic1: Private/public academy
-        topic2: 'Micro-learning: bite-sized course creator'
-        topic3: Public, restricted and hidden courses
-        topic4: Quizzes
-        topic5: Custom domain
-        topic6: Email invites/link invites
-        topic7: Embed widgets
-        topic8: Custom branding
-        topic9: Certificates
-        topic10: Groups
-        topic11: Multiple languages
-        topic12: All lessons in one place/lesson view
-        topic13: User profiles
-        topic14: Clone lessons
-        topic15: Course collaborators
+        quote: Vraag een offerte aan
+        features_included: Bij alle abonnementen inbegrepen functies
+        alert_premium: Je plan voorziet in twee academies. Als je een tweede wilt maken, neem dan contact met ons op via <a href="mailto:support@marbleteams.com">support@marbleteams.com</a>.
+        topic1: Privé/openbare academie
+        topic2: 'Micro-leren: hapklare cursus bouwer'
+        topic3: Openbare, beperkte en verborgen cursussen
+        topic4: Toetsen
+        topic5: Eigen domein
+        topic6: E-mail uitnodigingen /link uitnodigingen
+        topic7: Widgets insluiten
+        topic8: Eigen huisstijl
+        topic9: Certificaten
+        topic10: Groepen
+        topic11: Meerdere talen
+        topic12: Alle lessen op één plaats/ lesweergave
+        topic13: Gebruikers profielen
+        topic14: Lessen klonen 
+        topic15: Cursus meewerkers
     tenants:
       edit:
-        name: Academy name
-        name_placeholder: Enter your team or company name
-        welcome_subtitle: Secondary welcome message
-        welcome_title: Primary welcome message
+        name: Naam Academie
+        name_placeholder: Vul je team- of bedrijfsnaam in
+        welcome_subtitle: Secundair welkomstbericht
+        welcome_title: Primair welkomstbericht
         whitelabel: White Label
-        whitelabel_checkbox: Remove 'Powered by Marble' signatures
-        design_title: Design
-        design_subtitle: Update your brand logo, background images and the colors used in your academy.
-        brand_instructions: 'Max size: 2000 x 700 px'
-        brand_logo: Brand logo
+        whitelabel_checkbox: Verwijder 'Powered by Marble' handtekening
+        design_title: Ontwerp
+        design_subtitle: Update uw logo, achtergrondafbeeldingen en de kleuren die in uw academie worden gebruikt.
+        brand_instructions: 'Max formaat: 2000 x 700 px'
+        brand_logo: Merk logo
         favicon_logo: Favicon logo
-        save_logo: Save logo
-        save_favicon_logo: Save Favicon logo
-        go_to_themes: Go to theme settings
+        save_logo: Bewaar logo
+        save_favicon_logo: Bewaar Favicon logo
+        go_to_themes: Ga naar de thema-instellingen
       domain:
         form:
-          placeholder: example.yourdomain.tld
-          submit: Save custom domain
+          placeholder: example.uwdomein.nl
+          submit: Aangepast domein opslaan
           subtext: 'Please enter your custom (sub)domain without http:// or https://. Your domain will automatically be secured by SSL. It may take up to 24 hours for the DNS changes to be reflected.'
         subtitle: Set a custom domain for your academy
         text_html: "Your academy will be available on %{url} and the <span class='font-weight-bold'>custom
