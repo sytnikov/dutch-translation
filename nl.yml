@@ -474,130 +474,129 @@ en:
     invitations:
       edit:
         consent_text_html: Door verder te gaan, ga je akkoord met onze %{terms}.
-        submit_button: Save my password
-        subtitle_html: You'll use your email address (<strong>%{email}</strong>) and
-          a password to sign in to your academy on Marble.
-        title: Join %{tenant}
+        submit_button: Bewaar mijn wachtwoord
+        subtitle_html: U gebruikt uw e-mailadres (<strong>%{email}</strong>) en een 
+          een wachtwoord om u aan te melden bij uw academie op Marble.
+        title: Meedoen %{tenant}
     mailer:
       invitation_instructions:
-        body_html: has invited you to join the academy <strong>%{tenant}</strong>. Join
-          now to start learning!
-        cta: Join Now
-        title: Join %{tenant} on Marble
+        body_html: heeft u uitgenodigd om lid te worden van de academie <strong>%{tenant}</strong>. begin nu met leren!
+        cta: Doe nu mee
+        title: Doe mee %{tenant} bij Marble
       reset_password_instructions:
-        body: 'You told us you forgot your password. If you really did, click here
-          to choose a new one:'
-        cta: Choose a New Password
-        hint: "“Choose a New Password” button not working?"
-        hint2: 'Just copy and paste this link in your browser:'
-        no_reset: If you didn't mean to reset your password, then you can just ignore
-          this email; your password will not change.
-        title: Reset your password
+        body: 'U hebt ons verteld dat u uw wachtwoord bent vergeten. Als u dat echt deed, klik dan hier
+          om een nieuw wachtwoord te kiezen:'
+        cta: Kies een nieuw wachtwoord
+        hint: "“"Kies een nieuw wachtwoord" werkt de knop niet?"
+        hint2: 'Kopieer en plak deze link in uw browser:'
+        no_reset: Als het niet uw bedoeling was om uwwachtwoord opnieuw in te stellen, kunt u het gewoon negeren
+          deze e-mail; uw wachtwoord zal niet veranderen.
+        title: Wachtwoord opnieuw instellen
     passwords:
       edit:
-        submit_button: Change my password
-        subtitle_html: Enter your new password for your Marble account to sign in
-          to <strong>%{tenant}</strong>.
+        submit_button: Verander mijn wachtwoord
+        subtitle_html: Voer uw nieuwe wachtwoord voor uw Marble-account in om u aan te melden
+          naar <strong>%{tenant}</strong>.
       new:
-        reset_link: Get Reset Link
-        subtitle_html: To reset your password, enter the email address you use to
-          sign in to <strong>%{tenant}</strong>.
+        reset_link: Ontvang de reset link
+        subtitle_html: Om uw wachtwoord opnieuw in te stellen, voert u het e-mailadres in waarmee u
+          log in bij <strong>%{tenant}</strong>.
     registrations:
       new:
-        terms_button: Terms of Service
-        terms_html: By continuing, you're agreeing to our %{link}.
-        title: Sign up to %{tenant}
+        terms_button: Servicevoorwaarden
+        terms_html: Door verder te gaan, gaat u akkoord met onze %{link}.
+        title: Aanmelden bij %{tenant}
     sessions:
       new:
-        title: Sign in to %{tenant}
+        title: Log in bij %{tenant}
   welcome:
     _modal_new_path:
       label:
-        items: Select lesson
+        items: Selecteer les
       placeholder:
-        select_items: Select lessons
-      title: Create a new course
+        select_items: Selecteer lessen
+      title: Maak een nieuwe cursus
     home:
-      my_paths: My Courses
-      other_paths: Other Courses
-      welcome: Welcome to %{tenant}'s Academy
+      my_paths: Mijn cursussen
+      other_paths: Andere cursussen
+      welcome: Welkom bij %{tenant}'s Academie
     signin:
-      continue: Continue
-      label: Enter your Academy URL
-      placeholder: your-team-url
-      title: Sign in to your Academy
+      continue: Ga verder
+      label: Voer uw Academie-URL in
+      placeholder: jouw-team-url
+      title: Log in op je Academie
   global:
-    back: Back
-    cancel: Cancel
-    close: Close
-    delete: Delete
-    destroy: Destroy
-    edit: Edit
-    new: New
-    remove: Remove
-    create: Create
-    add: Add
-    share: Share
-    save: Save
-    search: Search
-    save_changes: Save changes
-    sign_in: Sign in
-    sign_up: Sign up
-    sign_out: Sign out
-    sure: Are you sure?
-    active: Active
-    inactive: Inactive
-    update: Update
-    save_pdf: Upload and save PDF file
-    admin: Admin
-    name: Name
-    title: Title
-    description: Description
+    back: Terug
+    cancel: Annuleer
+    close: Sluit
+    delete: Verwijder
+    destroy: Vernietig
+    edit: Bewerk
+    new: Nieuw
+    remove: Verwijder
+    create: Maak
+    add: Voeg toe
+    share: Deel
+    save: Bewaar
+    search: Zoek
+    save_changes: Bewaar veranderingen
+    sign_in: Inloggen
+    sign_up: Inschrijven
+    sign_out: Uitloggen
+    sure: Weet u het zeker?
+    active: Actief
+    inactive: In aktief
+    update: Bijwerken
+    save_pdf: Upload en bewaar het PDF bestand
+    admin: Beheerder
+    name: Naam
+    title: Titel
+    description: Beschrijving
     url: URL
     email: E-mail
     details: Details
-    course: Course
-    courses: Courses
-    lesson: Lesson
-    lessons: Lessons
-    user: User
-    users: Users
-    academy: Academy
+    course: Cursus
+    courses: Cursussen
+    lesson: Les
+    lessons: Lessen
+    user: Gebruiker
+    users: Gebruikers
+    academy: Academie
     academies: Academies
-    group: Group
-    groups: Groups
+    group: Groep
+    groups: Groepen
     tag: Tag
     tags: Tags
-    view: View
-    views: Views
-    in_hours: In hours
-    date: Date
-    "yes": "Yes"
-    "no": "No"
+    view: Bekijk
+    views: Keer bekeken
+    in_hours: In uren
+    date: Datum
+    "yes": "Ja"
+    "no": "Nee"
     min: min
-    h: h
+    h: u
     s: s
-    ago: ago
+    ago: geleden
     analytics: Analytics
-    time_spent: Time Spent
-    last_seen: Last Seen
-    completed: Completed
-    completion: Completion
-    satisfaction: Satisfaction
-    avg_satisfaction: Avg. Satisfaction
-    actions: Actions
+    time_spent: Tijd besteed
+    last_seen: Laatst gezien
+    completed: Voltooid
+    completion: Afronding
+    satisfaction: Tevredenheid
+    avg_satisfaction: Gem. Tevredenheid
+    actions: Acties
     dashboard: Dashboard
-    role: Role
-    admins: Admins
-    creator: Creator
-    creators: Creators
-    learner: Learner
-    learners: Learners
-    certificate: Certificate
-    certificates: Certificates
-    question: Question
-    questions: Questions
-    settings: Settings
-    billing: Billing
-    integration: Integration
-    integrations: Integrations
+    role: Rol
+    admins: Beheerders
+    creator: Maker
+    creators: Makers
+    learner: leerling
+    learners: Leerlingen
+    certificate: Certificaat
+    certificates: Certificaten
+    question: Vraag
+    questions: Vragen
+    settings: Instellingen
+    billing: Facturering
+    integration: Integratie
+    integrations: Integraties
