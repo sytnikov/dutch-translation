@@ -208,272 +208,272 @@ en:
     nolink_text: Heb je geen link? Een bestand uploaden
     edit_path_item_advanced:
       choose_lesson: Kies een lestype
-      website_description: A card for any link
-      video_description: Immersive video integration
-      pdf_description: Upload or link to a file
-      text_description: Long form text with style
-      embed_description: Embed any content you like
-      quiz_description: Giver clear options
+      website_description: Een kaart voor elke link
+      video_description: Meeslepende video-integratie
+      pdf_description: Upload of link een bestand
+      text_description: Lange tekst met opmaak
+      embed_description: Sluit alle gewenste inhoud in
+      quiz_description: Geef duidelijke opties
     index:
-      all: All
+      all: Allen
       reset: Reset
-      tag: Select a tag
+      tag: Selecteer een tag
     myitem:
-      answer: View Answer
-      back: 'Back to:'
-      complete: Complete
-      completed: Completed
-      contents: Lessons
-      feedback: How was it?
-      feedback_text: You just completed
-      link: Visit link
-      mark_finished: Mark Finished
-      next: Next up
-      next_lesson: Continue to Next Lesson
-      start_next_lesson: Start Next Lesson
-      to_path: Return to course
+      answer: Bekijk het antwoord
+      back: 'Terug naar'
+      complete: Rond af
+      completed: Afgerond
+      contents: Lessen
+      feedback: Hoe ging het?
+      feedback_text: U heeft net afgerond
+      link: Bezoek de link
+      mark_finished: Markeer als afgerond
+      next: Volgende
+      next_lesson: Ga door naar de volgende les
+      start_next_lesson: Start de volgende les
+      to_path: Ga terug naar de cursus
     new:
-      title: New Lesson
+      title: Nieuwe les
     new_path_item:
-      add_existing_content: Add existing lesson
-      add_items_text: Find lesson
-      add_items_title: Choose lessons to add
-      add_new_content: Add new lesson
-      add_question: Add question
-      question_text: You can add questions after creating the lesson.
+      add_existing_content: Bestaande les toevoegen
+      add_items_text: Vind les
+      add_items_title: Kies lessen om toe te voegen
+      add_new_content: Voeg nieuwe les toe
+      add_question: Vraag toevoegen
+      question_text: U kunt vragen toevoegen nadat u de les heeft gemaakt.
     show:
-      link: Visit link
+      link: Bezoek link
   layouts:
     _navbar:
-      account_question: Have an account?
-      admin_settings: Admin Settings
-      create_path: Create a course
-      design: Design
-      invite_users: Invite Users
-      my_profile: My profile
-      my_settings: My settings
+      account_question: Heeft u een account?
+      admin_settings: Beheerdersinstellingen
+      create_path: Maak een cursus
+      design: Ontwerp
+      invite_users: Nodig gebruikers uit
+      my_profile: Mijn profiel
+      my_settings: Mijn instellingen
       support: Support
       templates: Templates
     _navbar_tenants:
-      account_question: Have an account?
+      account_question: Heeft u een account?
   notification_mailer:
     new_path_notification:
       email: Email
-      sign_in: Sign In
-      workspace_name: Academy name
-      workspace_url: Academy URL
+      sign_in: Inloggen
+      workspace_name: Naam academie 
+      workspace_url: URL academie
   paths:
     shared:
-      choose_file: Choose a file
+      choose_file: Kies een bestand
       file_size: "(max. 10MB)"
-      item_tags_text: Enter a tag
-      nolink_text: Don't have a link? Upload a file
-      enter_url: Enter a URL
-      enter_emails: Enter emails here
-      start_date: Start date
-      end_date: End date
-      draft: Draft
-      publish: Publish
-      previous: Previous
+      item_tags_text: Voer een tag in
+      nolink_text: Heb je geen link? Een bestand uploaden
+      enter_url: Voer een URL in
+      enter_emails: Voer hier e-mail adressen in
+      start_date: Startdatum
+      end_date: Einddatum
+      draft: Concept
+      publish: Publiceer
+      previous: Vorige
       start: Start
-      resume: Resume
-      no_notifications: No notifications
-      notifications: Notifications
-      now_button: Now
+      resume: Hervat
+      no_notifications: Geen notificaties
+      notifications: Notificaties
+      now_button: Nu
       privacy: Privacy
-      anyone_with_link: Anyone with link
-      anyone_with_link_text_2: Anyone on the internet can view this course.
-      restricted: Restricted
-      restricted_text: Only learners assigned can open with this course.
-      privacy_text: Set the privacy of this course.
-      public_text: Anyone in the academy can view this course.
-      available: Available
-      expired: Expired
-      edit_path: Edit Course
+      anyone_with_link: Iedereen met een link
+      anyone_with_link_text_2: Iedereen op internet kan deze cursus bekijken.
+      restricted: Besloten
+      restricted_text: Alleen toegewezen studenten kunnen deze cursus openen.
+      privacy_text: Stel de privacy van deze cursus in.
+      public_text: Iedereen in de academie kan deze cursus bekijken.
+      available: Beschikbaar
+      expired: Verlopen
+      edit_path: Bewerk cursus
     show_settings:
-      delete_image: Delete image
-      restore_image: Restore default
+      delete_image: Verwijder afbeelding
+      restore_image: Terug naar de standaard instellingen
     edit_cover_image_modal:
-      restore: Restore default
+      restore: Terug naar de standaard instellingen
       label:
-        banner: Cover image
-        banner_instructions: 'Max size: 3000 x 1500 px'
-      title: Change course cover image
+        banner: Omslagfoto
+        banner_instructions: 'Max formaat: 3000 x 1500 px'
+      title: Omslagafbeelding cursus wijzigen
     _edit_path_modal:
       label:
-        image: Course background image
-        image_instructions: "Max size: 3500 x 1100 px"
-        text_color: Course title color
+        image: Achtergrondafbeelding cursus
+        image_instructions: "Max formaat: 3500 x 1100 px"
+        text_color: Kleur van cursustitel
     _existing_items_modal:
-      select_items: Select lessons
-      title: Add Existing Lessons
+      select_items: Selecteer lessen
+      title: Bestaande lessen toevoegen
     _modal_add_content:
-      add_existing_content: Add existing lesson
-      add_new_content: Add new lesson
-      choose_items: Choose lessons to add
-      find_content: Find lesson
+      add_existing_content: Bestaande les toevoegen
+      add_new_content: Nieuwe les toevoegen
+      choose_items: Kies lessen om toe te voegen
+      find_content: Vind lessen
     _modal_add_question:
-      add_option: Add option
-      ask_question: Ask a question...
-      title: Multiple Choice Question
+      add_option: Optie toevoegen
+      ask_question: Stel een vraag...
+      title: Multiple Choice Vraag
     _modal_edit_item:
-      title: Edit lesson
+      title: Bewerk les
     _modal_edit_question:
-      add_option: Add option
-      title: Edit question
+      add_option: Optie toevoegen
+      title: Vraag bewerken
     _modal_path_settings:
-      # Part of the strings from this page are linked to the paths/edit
-      assign_groups: Assign groups
-      assign_groups_text: You can also assign groups of learners previously created in the admin environment.
-      currently_in: You are currently in %{timezone} time
-      design_description: Design
-      design_title: Change the layout of your learner mode
-      find_learners: Find learners
-      find_groups: Find groups
-      only_assigned: Only assigned members
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-        only for a certain period of time.
+      # Een deel van de strings van deze pagina zijn gekoppeld aan de paden/bewerken
+      assign_groups: Groepen toevoegen
+      assign_groups_text: U kunt ook groepen studenten toewijzen die eerder in de beheerdersomgeving zijn gemaakt.
+      currently_in: U bent momenteel in de %{timezone} tijdzone
+      design_description: Ontwerp
+      design_title: De lay-out van uw leermodus wijzigen
+      find_learners: Vind leerlingen
+      find_groups: Groepen vinden
+      only_assigned: Alleen toegewezen leden
+      path_collaboration: Cursus samenwerking
+      path_collaboration_text: Sta studenten toe lessen aan deze cursus toe te voegen.
+      person_space: personen in uw academie.
+        alleen voor een bepaalde tijd.
     _new_item_modal:
-      title: Add new lesson
+      title: Nieuwe les toevoegen
     _path:
-      change_cover: Change Cover
-      edit_path: Edit Course
+      change_cover: Wijzig omslag
+      edit_path: Bewerk cursus
       items:
-        one: "%{count} Lesson"
-        other: "%{count} Lessons"
-      view_path: View Course
+        one: "%{count} Lessen"
+        other: "%{count} Lessen"
+      view_path: Bekijk cursus
     _paths_list:
-      create_first_path: Create your first course
-      no_paths: There are no courses here yet.
+      create_first_path: Maak je eerste cursus
+      no_paths: Er zijn hier nog geen cursussen.
     edit:
-      add_content: Add lesson
-      all_learners: All learners
-      assign_learners: Assign learners
-      assign_learners_text: You can assign individual learners who will be able to
-        see the course and are notified about the course.
-      change_name: Change Name
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      form_title: The form contains
-      group_path_title: Group course settings
-      noend: No end
-      notifications_text: Your learners will receive a notification about this course.
-      only_assigned: Only assigned members
-      path_collaboration: Course collaboration
-      path_collaboration_text: Allow learners to add lessons to this course.
-      person_space: persons in your academy.
-      schedule_path: Schedule a course
-      schedule_path_text_1: Courses are generally always available to your academy.
-      schedule_path_text_2: With this setting, you can schedule courses to be available
-        only for a certain period of time.
-      sending_notification: You will be sending a notification to
-      title_1: Add lesson
-      title_2: Group course settings
+      add_content: Lessen toevoegen
+      all_learners: Alle leerlingen
+      assign_learners: Leerlingen toewijzen
+      assign_learners_text: U kunt individuele leerlingen toewijzen die in staat zullen zijn om:
+        de cursus zien en op de hoogte worden gehouden van de cursus.
+      change_name: Naam veranderen
+      change_timezone: Verander uw tijdzone hier
+      currently_in: U bent momenteel in
+      form_title: Het formulier bevat
+      group_path_title: Instellingen groepscursus
+      noend: Geen einde
+      notifications_text: Uw cursisten ontvangen een melding over deze cursus.
+      only_assigned: Alleen toegewezen leden
+      path_collaboration: Cursus samenwerking
+      path_collaboration_text: Sta studenten toe lessen aan deze cursus toe te voegen.
+      person_space: personen in uw academie.
+      schedule_path: Plan een cursus
+      schedule_path_text_1: Cursussen zijn over het algemeen altijd beschikbaar voor jouw academie.
+      schedule_path_text_2: Met deze instelling kunt u plannen dat cursussen beschikbaar zijn
+        alleen voor een bepaalde tijd.
+      sending_notification: U stuurt een melding naar
+      title_1: Lessen toevoegen
+      title_2: Instellingen groepscursus
     index:
-      assigned: Assigned to me
+      assigned: Toegewezen aan mij
     review:
-      all_learners: All learners
-      assign_users: Assign users
-      assign_users_text: You can assign individual users who will be able to see the
-        course and are notified about the course.
-      change_timezone: Change your time zone here
-      currently_in: You are currently in
-      find_learners: Find learners
-      form_title: The form contains
-      notifications_text: Your learners will receive a notification about this course.
-      only_assigned: Only assigned members
-      open-ended: Open-ended
-      person_space: Persons
-      save_draft: Save as draft
-      schedule_path: Schedule course
-      schedule_path_text_1: Courses are generally always available to your academy.
-      schedule_path_text_2: With this setting, you can schedule courses to be available
-        only for a certain period of time.
-      sending_notification: You will be sending a notification to
-      title: Configure course
+      all_learners: Alle studenten
+      assign_users: Gebruikers toewijzen
+      assign_users_text: U kunt individuele gebruikers toewijzen die de
+        cursus en worden geïnformeerd over de cursus.
+      change_timezone: Verander uw tijdzone hier
+      currently_in: U bent momenteel in
+      find_learners: Leerlingen zoeken
+      form_title: Het formulier bevat
+      notifications_text: Uw cursisten ontvangen een melding over deze cursus.
+      only_assigned: Alleen voor toegewezen leden
+      open-ended: Open-einde
+      person_space: Personen
+      save_draft: Als concept opslaan
+      schedule_path: Plan een cursus
+      schedule_path_text_1: Cursussen zijn over het algemeen altijd beschikbaar voor jouw academie.
+      schedule_path_text_2: Met deze instelling kunt u plannen dat cursussen beschikbaar zijn
+        alleen voor een bepaalde tijd.
+      sending_notification: Je stuurt een melding naar
+      title: Configureer cursus
     preview:
-      edit: Edit Course
+      edit: Cursus bewerken
     show:
-      add_item: Add at least one lesson
-      course_details: Course Details
-      edit: Edit
-      enter_emails: Enter emails here
-      invitations_sent: Invitations sent to
-      invite: Invite
-      invite_learners: Invite learners
-      invite_learners_text: The learners will be invited and assigned to this course.
-      learners: learners.
-      no_items: There are no lessons yet.
-      path_published: Course was successfully published.
-      send_invitations: Send invitations
+      add_item: Voeg minimaal één les toe
+      course_details: Cursus Details
+      edit: Bewerk
+      enter_emails: Voer mailadressen hier in
+      invitations_sent: Uitnodigingen verzonden naar
+      invite: Uitnodigen
+      invite_learners: Nodig leerlingen uit
+      invite_learners_text: De cursisten worden uitgenodigd en toegewezen aan deze cursus.
+      learners: cursisten
+      no_items: Er zijn nog geen lessen
+      path_published: Cursus is succesvol gepubliceerd.
+      send_invitations: Verzend uitnodigingen
     show_share:
       sharelink:
-        button: Copy
-        title: Share this link
+        button: Kopieer
+        title: Deel deze link
     templates:
-      create_template: Create from template
-      title: Templates
-      view_original: View original course
+      create_template: Maken op basis van sjabloon
+      title: Sjablonen
+      view_original: Bekijk originele cursus
   questions:
     shared:
-      correct: Correct answer!
-      incorrect: Incorrect!
-      correct_text: 'The correct answer is option:'
-      multiple: Multiple choice question
-      submit: Submit
-      answer: Check for correct answer
+      correct: Correct antwoord!
+      incorrect: Fout antwoord!
+      correct_text: 'Het juiste antwoord is optie:'
+      multiple: Multiple choice vragen
+      submit: Indienen
+      answer: Controleer op het juiste antwoord
     _option_fields:
-      option: Option
-      answer: Check answer
+      option: Optie
+      answer: Controleer antwoord
     _question_form:
-      add_option: Add option
-      ask_question: Ask a question...
-      save_options: Save options
+      add_option: Optie toevogen
+      ask_question: Stel een vraag
+      save_options: Optie bewaren
     _view_question:
-      title: Quiz Question
+      title: Quizvraag
     modal_failure:
-      try_again: You can try again!
+      try_again: U kunt het opnieuw proberen!
   profiles:
     shared:
-      email: Enter an email address
-      locale: Language
-      name: Enter your name
-      position: Enter your position
+      email: voer een e-mail adres in
+      locale: Taal
+      name: Voer je naam in
+      position: Wat is uw positie?
     _profile_navigation:
-      overview: Overview
+      overview: Overzicht
   users:
     shared:
-      password: Password
-      new_password: New Password
-      confirm_new_password: Confirm New Password
-      confirm_password: Confirm Password
-      enter_name: Enter your name
-      enter_password: Enter your password
-      password_confirmation: Enter the password again
-      password_reset: Password reset
-      enter_email: Enter your e-mail address
-      remember: Remember me
-      password_text: Your password should be at least 6 characters long (and contain numbers and special characters for additional security)
+      password: Wachtwoord
+      new_password: Nieuw wachtwoord
+      confirm_new_password: Bevestig nieuw wachtwoord
+      confirm_password: Bevestig wachtwoord
+      enter_name: Voer uw naam in
+      enter_password: Voer uw wachtwoord in
+      password_confirmation: Voer uw wachtwoord opnieuw in
+      password_reset: Rest wachtwoord
+      enter_email: Voer uw mailadres in
+      remember: Herinner mij
+      password_text: Uw wachtwoord moet minimaal 6 tekens lang zijn (en cijfers en speciale tekens bevatten voor extra beveiliging)
       _links:
-        forgot: Forgot your password?
+        forgot: Uw wachtwoord vergeten?
     profiles:
       certificates:
-        no_certificate: You don't have any issued certificate yet.
-        date_issue: Date of issue
-        view_pdf: View as PDF
+        no_certificate: U heeft nog geen afgegeven certificaat.
+        date_issue: datum van uitgifte
+        view_pdf: Bekijk als .pdf
       items:
-        no_lessons: You don't have lessons available yet.
+        no_lessons: U hebt nog geen lessen beschikbaar.
       paths:
-        no_courses: You don't have courses available yet.
+        no_courses: U hebt nog geen cursussen beschikbaar.
       show:
-        overview: Overview
-        progress: Learn Progress
-        stats: Personal Statistics
+        overview: Overzicht
+        progress: Studie voortgang
+        stats: Persoonlijke statistieken
     invitations:
       edit:
-        consent_text_html: By continuing, you're agreeing to our %{terms}.
+        consent_text_html: Door verder te gaan, ga je akkoord met onze %{terms}.
         submit_button: Save my password
         subtitle_html: You'll use your email address (<strong>%{email}</strong>) and
           a password to sign in to your academy on Marble.
