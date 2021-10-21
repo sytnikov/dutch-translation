@@ -3,7 +3,7 @@ en:
   admin:
     welcome:
       index:
-        total_views: totaal aantal weergaven
+        total_views: Totaal aantal weergaven
         lesson_title: Titel van de les
     paths:
       certificates_tab:
